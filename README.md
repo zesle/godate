@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/kofoworola/godate.svg?branch=master)](https://travis-ci.org/kofoworola/godate)
+[![Build Status](https://travis-ci.org/kofoworola/godate.svg?branch=master)](https://travis-ci.org/kofoworola/godate) okay
 
 # GODATE
 Godate is a date toolkit for golang for easy date manipulation highly inspired by php's carbon [Carbon](https://carbon.nesbot.com/)
